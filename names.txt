@@ -1,5 +1,10 @@
+<<<<<<< Updated upstream
 Bear The Amazing
 Bear The Magical
 Bear The Awesome
 Bear The Amazing
 Bear The Wonderful
+=======
+Bear You Are Always The Best
+And You Will Always Remain The Bestest
+>>>>>>> Stashed changes
